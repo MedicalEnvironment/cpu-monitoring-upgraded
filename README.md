@@ -1,3 +1,2 @@
 # cpu-monitoring-upgraded
-Upgarded repository of the previous one 
-Included Disk Space monitoring and Cores loading process
+The Disk and CPU Monitor is a command-line interface (CLI) tool designed for Linux users to efficiently track and manage their system's disk and CPU load usage. This lightweight and user-friendly software provides real-time insights into the performance of your computer, helping you make informed decisions and optimize your system's resources. With this tool, you can easily monitor disk space utilization, track CPU usage, and identify potential performance bottlenecks. Stay in control of your Linux system with the Disk and CPU Monitor, your reliable companion for resource management.
